@@ -1,0 +1,13 @@
+-> E-mail
+
+https://zumira.com.br:2096/
+Usuário: atendimento@zumira.com.br
+Senha: zumir@!23
+
+https://webmail-seguro.com.br/lusitan.com.br/
+Usuário: desenvolvimento@lusitan.com.br
+Senha: Zumir@!23
+
+-> Servidor de SMTP
+Servidor: email-ssl.com.br;
+Porta: 587
